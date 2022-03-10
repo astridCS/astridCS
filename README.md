@@ -1,5 +1,5 @@
-# Hello I'm **Sarrazin c. Astrid**👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- I'm Junior full-stack developer and I live in Yutz/Moselle, France.
+# Hello I'm **Sarrazin c. Astrid** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ I'm Junior full-stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Yutz/Moselle, France</b>.
 <!--
 **astridCS/astridCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
